@@ -2,6 +2,12 @@
 
 `AI YouTube Learn` is a Streamlit app that turns YouTube videos into a guided learning experience with AI summaries, quizzes, chat, and podcast-style script generation.
 
+## 📱 App Link
+
+**Try it here:** [https://ai-youtube-learn.streamlit.app](https://ai-youtube-learn.streamlit.app)
+
+
+
 ## Features
 
 - Search YouTube videos or paste a direct YouTube URL
